@@ -1,4 +1,4 @@
-# Recruitment Analytics
+# Talent Recruitment Analytics
 
 ## 📌 Project Overview
 Over the past six months, the company has been conducting recruitment for various data-related roles including data analysts, data scientists, and data engineers. Throughout this period, the recruitment team faced challenges in executing an effective hiring process and categorizing available candidates. This project aims to assist the recruitment team in analyzing the labor market based on the recruitment data gathered over the last six months, thereby enhancing the process's effectiveness and efficiency while securing candidates who align with the company's needs.
